@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CESMAC EAD](https://res.cloudinary.com/dxylve8nt/image/upload/v1709508355/cesmac_ead_downloaded_logo_r7qz3z.jpg)
 
-# Calculadora Simples
+# Calculadora de IMC
 
 Código fonte para explicação de testes unitários para o Projeto Integrador V-A do curso de Análise e Desenvolvimento de Sistemas EAD do CESMAC.
 
