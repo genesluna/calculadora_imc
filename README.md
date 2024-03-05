@@ -20,7 +20,7 @@ São abordados testes que assegurem que a Calculadora de IMC:
 
 ## Vídeo com a criação e explicação dos testes
 
-#### Gravação em andamento
+[![Vídeo com a criação e explicação dos testes](https://img.youtube.com/vi/j1jVH6RsAZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=j1jVH6RsAZc)
 
 ## Utilizando o código
 
@@ -45,6 +45,18 @@ python main.py
 ```shell
 python -m unittest tests/test_calculadora_imc.py
 ```
+
+## Link para os outro 4 desafios:
+
+Você deve escolher um dos códigos abaixo e criar os testes necessários seguindo o que aprendemos na aula.
+
+https://github.com/genesluna/calculadora_simples
+
+https://github.com/genesluna/conversor_de_unidades
+
+https://github.com/genesluna/simulador_caixa_eletronico
+
+https://github.com/genesluna/gerador_de_senhas
 
 ## Link para o grupo de dúvidas no WhatsApp:
 
