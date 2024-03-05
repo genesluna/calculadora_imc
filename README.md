@@ -46,7 +46,7 @@ python main.py
 python -m unittest tests/test_calculadora_imc.py
 ```
 
-## Links para os outros 4 desafios:
+## Links para os 4 desafios:
 
 O aluno deve escolher um dos códigos abaixo e criar os testes necessários seguindo o que aprendeu na aula.
 
